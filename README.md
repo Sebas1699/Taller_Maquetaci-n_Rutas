@@ -28,7 +28,7 @@ Si aparece algún problema con Android SDK, emuladores o licencias, corrígelo a
 ## Clonar y preparar el proyecto
 
 ```bash
-git clone <URL_DEL_REPOSITORIO>
+git clone <https://github.com/Sebas1699/Taller_Maquetaci-n_Rutas.git>
 cd taller_maquetacion
 flutter pub get
 ```
